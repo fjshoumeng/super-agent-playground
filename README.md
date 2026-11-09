@@ -1,2 +1,2 @@
 # super-agent-playground
-dsh-superagent 练手仓库
+dsh-superagent 练习仓库
